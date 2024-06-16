@@ -1,8 +1,50 @@
-q1:
-  a1
+- q: "Jeg kan lite/ingenting sjakk, men har lyst å lære. Hva gjør jeg?"
+  a: >
+    En ting du kan gjøre er å møte opp på en av våre vanlige klubbkvelder. Så tar vi det derfra ;-).
+    Vi er flere personer som gjerne hjelper deg i gang.
+    Vi har også undervisningskvelder innimellom.
+    Følg med på nettsiden/terminliste for info.
 
-q2:
-  a2
 
-q3:
-  a3
+- q: "Jeg kan litt/mye sjakk, og har lyst å spille med noen. Hvor møter jeg?"
+  a: >
+    Jæren Sjakklubb har klubbkveld hver onsdag. Da er det bare å møte opp ;-)
+
+- q: "Når?"
+  a: >
+    På terminlisten finner du en oversikt over klubbkveldene.
+    Møt opp kl 18:00 for registrering.
+    Kveldens turnering starter så snart alle er registrert.
+
+- q: "Hvor?"
+  a: >
+    A-bygget på Bryne VGS.
+    Vi holder til i personalkantinen i 1. etg.
+    Hvis problemer med inngangsdøren, ring 976 88 571 
+
+- q: "Medlemskap i Jæren Sjakklubb?"
+  a: |
+    Medlemskap i Jæren Sjakklubb tegner du ved oppmøte på en klubbkveld.
+
+    Vi tilbyr ulike typer medlemskap:
+
+    \* A - Voksne (20+) : 700 kr/år
+
+    \* A - Junior (under 20 pr 1/1): 350 kr/år
+
+      B - B-medlemskap for spillere som er hovedmedlem i annen NSF-klubb: 200 kr/år
+
+      C - kaffesjakkmedlemskap: 200 kr/år
+
+    \* D - under 14 pr 1/1: 150 kr/år 
+
+    \*) For medlemskap merket med * så inkluderer det gjeldende kontigent til forbund og krets.
+    Det vil si at du blir medlem i Norges Sjakkforbund og vil få tilsendt bladet \"Norsk Sjakkblad\".
+    Du vil da også kunne delta i \"ratede\" turneringer (som f.eks. NGP-turneringer).
+
+    Størrelse på kontigenten fastsettes av årsmøtet.
+
+- q: "Hvor finner jeg sjakkreglene?"
+  a: >
+    FIDE's gjeldende turneringsregler (oversatt til norsk) finner du her:
+    https://www.sjakk.no/ressurser/spilleregler

@@ -1,0 +1,23 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <!--<h2 class="footer-heading">Sponsorer</h2>-->
+
+    <div class="footer-col-wrapper">
+
+      {% for sponsor in site.data.sponsors %}
+      <div class="footer-col footer-col-1">
+        <a href="{{ sponsor.url | escape }}">
+          <img src="{{ sponsor.logo_path | escape }}" alt="{{ sponsor.name | escape }}">
+        </a>
+      </div>
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</footer>
+

@@ -30,5 +30,4 @@ Mer informasjon finner du på Norsk Tipping sine nettsider.
 
 Takk for at du støtter oss via Grasrotandelen!
 
-
-![](https://content.norsk-tipping.no/_/image/250e8a6c-9217-4fa7-a072-590a721ba8bd:1b9e943b7006b26f29f4b8cfa251e4f2/width-600/grasrot_video_2_portrait.png?quality=95)
+![](/assets/img/Grasrotandelen_logo.png)

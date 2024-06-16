@@ -12,15 +12,17 @@ JSK skal være et møtested for alle sjakkintresserte bosatt i Jærkommunene Gje
 
 For barn og unge som ønsker å lære sjakk, så samarbeider JSK med Hå Skulesjakk.
 
+
 # Klubbkveld
 
-Fast spilledag er på onsdager. Vi starter kl  18:00 og holder på til +/- 21:30.
+Fast spilledag er {{ site.data.klubbkveld.day }}.
+Vi starter kl. {{ site.data.klubbkveld.start }} og holder på til +/-  {{ site.data.klubbkveld.end }}.
 
 I hovedsak spiller vi en eller annen form for turnering.
 Enkelte onsdager kan det hende vi har undervisning/foredrag, gjerne
 etterfulgt av turnering.
 
-For mer informasjon, se terminlisten.
+For mer informasjon, se [terminlisten](/terminliste).
 
 
 # Spillested

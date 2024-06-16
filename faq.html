@@ -1,0 +1,16 @@
+---
+layout: page
+title: FAQ
+permalink: /faq/
+---
+
+{% for qa in site.data.faq %}
+<details>
+  <summary>
+    {{ qa.q}}
+  </summary>
+  <div>
+    {{ qa.a | markdownify }}
+  </div>
+</details>
+{% endfor %}

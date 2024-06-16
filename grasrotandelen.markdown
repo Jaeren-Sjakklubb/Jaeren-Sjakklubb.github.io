@@ -9,6 +9,9 @@ hvor du som registrert spiller kan velge ett lag
 eller én forening som du ønsker å støtte – din Grasrotmottaker.
 Vi oppfordrer deg til å støtte Jæren Sjakklubb!
 
+Mer informasjon finner du på [Norsk Tipping sine nettsider](https://www.norsk-tipping.no/grasrotandelen).
+
+<!--
 Tenk deg at du kan spille favorittspillene dine
 – Lotto, Tipping og Joker for eksempel –
 og samtidig gi noe mer til det laget
@@ -29,5 +32,5 @@ Vi oppfordrer deg til å knytte deg til ordningen allerede i dag, og du gjør de
 Mer informasjon finner du på [Norsk Tipping sine nettsider](https://www.norsk-tipping.no/grasrotandelen).
 
 Takk for at du støtter oss via Grasrotandelen!
-
+-->
 <img src="/assets/img/Grasrotandelen_logo.png" style="width:400px;">

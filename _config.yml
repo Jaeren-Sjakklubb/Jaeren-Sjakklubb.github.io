@@ -31,6 +31,7 @@ domain: "jaerensjakk.no"
 url: "https://jaerensjak.no" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: Jaeren-Sjakklubb
+facebook_username: jaerensk
 
 # Build settings
 theme: minima

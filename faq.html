@@ -7,7 +7,7 @@ permalink: /faq/
 {% for qa in site.data.faq %}
 <details>
   <summary>
-    {{ qa.q}}
+    <h3 style="font-weight:bold;">{{ qa.q}}</h3>
   </summary>
   <div>
     {{ qa.a | markdownify }}

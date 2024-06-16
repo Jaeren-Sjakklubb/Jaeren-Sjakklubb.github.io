@@ -26,8 +26,8 @@ Vi oppfordrer deg til å knytte deg til ordningen allerede i dag, og du gjør de
 2. SMS: GRASROTANDELEN 918644113 til 2020 (tjenesten er gratis).
 3. Internett: norsk-tipping.no
 
-Mer informasjon finner du på Norsk Tipping sine nettsider.
+Mer informasjon finner du på [Norsk Tipping sine nettsider](https://www.norsk-tipping.no/grasrotandelen).
 
 Takk for at du støtter oss via Grasrotandelen!
 
-![](/assets/img/Grasrotandelen_logo.png)
+<img src="/assets/img/Grasrotandelen_logo.png" style="width:400px;">

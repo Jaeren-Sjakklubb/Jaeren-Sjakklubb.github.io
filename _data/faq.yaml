@@ -12,7 +12,7 @@
 
 - q: "Når?"
   a: >
-    På terminlisten finner du en oversikt over klubbkveldene.
+    På [terminlisten](/terminliste) finner du en oversikt over klubbkveldene.
     Møt opp kl 18:00 for registrering.
     Kveldens turnering starter så snart alle er registrert.
 
@@ -28,7 +28,7 @@
 
     Vi tilbyr ulike typer medlemskap:
 
-    \* A - Voksne (20+) : 700 kr/år
+    \* A - Voksne (20+) : 750 kr/år
 
     \* A - Junior (under 20 pr 1/1): 350 kr/år
 
@@ -46,5 +46,4 @@
 
 - q: "Hvor finner jeg sjakkreglene?"
   a: >
-    FIDE's gjeldende turneringsregler (oversatt til norsk) finner du her:
-    https://www.sjakk.no/ressurser/spilleregler
+    FIDE's gjeldende turneringsregler (oversatt til norsk) finner du [her](https://www.sjakk.no/ressurser/spilleregler).

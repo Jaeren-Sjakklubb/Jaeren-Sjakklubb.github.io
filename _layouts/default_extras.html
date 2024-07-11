@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <div class="col-lg-4">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <main class="page-content" aria-label="Content">
+            <div class="wrapper">
+              {{ content }}
+            </div>
+          </main>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h1 class="page-heading">Dagens sjakknøtt & sitat</h1>
+          <div>
+              <iframe src='https://livetactics.chessbase.com' scrolling='no' width='385' height='500' frameborder='0'></iframe>    
+          </div>
+          <div>
+              <script type="text/javascript" src = "https://www.chessvideos.tv/quote.php"></script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 
+    <table class="table">
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <main class="page-content" aria-label="Content">
+              <div class="wrapper">
+                {{ content }}
+              </div>
+            </main>
+          </td>
+          <td>
+            <div>
+              <h1 class="page-heading">Dagens sjakknøtt & sitat</h1>
+              <div>
+                  <iframe src='https://livetactics.chessbase.com' scrolling='no' width='385' height='500' frameborder='0'></iframe>    
+              </div>
+              <div>
+                  <script type="text/javascript" src = "https://www.chessvideos.tv/quote.php"></script>
+              </div>
+            </div>        
+          </td>
+        </tr>
+      </tbody>
+    </table> -->
+    
+
+    {%- include sponsors.html -%}
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

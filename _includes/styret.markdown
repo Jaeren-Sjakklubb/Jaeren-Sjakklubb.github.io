@@ -3,11 +3,11 @@
 {{ member.name }} ({{ member.position }})
 
 {% if member.phone %}
-- tlf: {{ member.phone }}
+   - tlf: {{ member.phone }}
 {% endif %}
 
 {% if member.mail %}
-- e-mail: {{ member.mail }}
+   - e-mail: {{ member.mail }}
 {% endif %}
 
 {% endfor %}

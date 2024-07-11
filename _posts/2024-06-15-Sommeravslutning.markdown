@@ -4,9 +4,10 @@ title:  "Klubbmesterskapet i lynsjakk"
 date:   2024-06-15 10:28:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
+excerpt: Klubbmester i lynsjakk er kåret
+image: /assets/posts/440745464_751682423845702_14753050253894405_n.jpg
 ---
-
-![](/assets/posts/440745464_751682423845702_14753050253894405_n.jpg)
+![]({{ page.image }})
 
 Da tar Jæren Sjakklubb sommerferie. 
 

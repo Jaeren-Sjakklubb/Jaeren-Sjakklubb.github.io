@@ -1,5 +1,5 @@
 ---
-layout: default_extras
+layout: default
 ---
 <div class="home">
             {%- if page.title -%}
@@ -13,6 +13,7 @@ layout: default_extras
               <ul class="post-list">
                 {%- for post in site.posts -%}
                 <li>
+                  <a href="{{ post.url | relative_url }}"><img src="{{- post.image | relative_url -}}" alt="" class="blog_post_image" style="float:right;height:100px;padding-top:15px;margin-right:10px;"></a>
                   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                   <span class="post-meta">{{ post.date | date: date_format }}</span>
                   <h3>
@@ -27,6 +28,6 @@ layout: default_extras
                 {%- endfor -%}
               </ul>
           
-              <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+              <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
             {%- endif -%}
 </div>

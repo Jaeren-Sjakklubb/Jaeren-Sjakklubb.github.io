@@ -4,8 +4,11 @@ title:  "Det gror godt i Jæren Sjakklubb!"
 date:   2024-05-05 11:50:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
+excerpt: 5 av de yngste sjakkspillerne deltok i sin første sjakkturnering
+image: /assets/posts/1f212a_2833878db4b24270a34685386332a5b8~mv2.webp
+
 ---
-![](/assets/posts/1f212a_2833878db4b24270a34685386332a5b8~mv2.webp)
+![]({{ page.image }})
 
 5 glade sjakkspillere fra Jæren Sjakklubb etter 6 partier i nybegynnerklassen i Mai BGP. 
 Alle lærte noe og koste seg med en lang dag dedikert til sjakk. Emil stakk av med 3. plassen.

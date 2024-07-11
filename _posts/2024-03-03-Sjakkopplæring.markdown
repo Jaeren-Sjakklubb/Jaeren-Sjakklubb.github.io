@@ -4,8 +4,10 @@ title:  "Sjakkopplæring"
 date:   2024-03-03 11:50:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
+excerpt: Vi spiller ikke bare turneringer på våre klubbkvelder. Vi driver også med sjakkopplæring ;-)
+image: /assets/posts/1f212a_a435ff1335784af59d3ffa5992364786~mv2.webp
 ---
-![](/assets/posts/1f212a_a435ff1335784af59d3ffa5992364786~mv2.webp)
+![]({{ page.image }})
 
 Vi spiller ikke bare turneringer på våre klubbkvelder. Vi driver også med sjakkopplæring for barn og unge ;-)
 

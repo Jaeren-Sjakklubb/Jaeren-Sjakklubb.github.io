@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "jærensjakk.no"
-url: "https://jærensjak.no" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jærensjakk.no" # the base hostname & protocol for your site, e.g. http://example.com
 lang: no
 
 github_username: Jaeren-Sjakklubb
@@ -40,6 +40,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - terminliste.html
+  - sjakklinker.html
+  - grasrotandelen.markdown
+  - faq.html
+  - about.markdown
+
+show_excerpts: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

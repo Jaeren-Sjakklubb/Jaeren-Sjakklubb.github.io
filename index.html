@@ -1,0 +1,40 @@
+---
+layout: home
+list_title: "Siste Innlegg"
+---
+
+<img src="/assets/img/17103358_1674349796199016_7977887204615956536_n.png" />
+<div style="margin-top:15px;margin-bottom:30px;">
+<!-- <h1>Velkommen til Jæren Sjakklubb</h1>
+
+Klubben ble stiftet i 2017, og har tilholdssted på Bryne VGS.<br/>
+Vi ønsker alle hjertelig velkommen til oss. <br/>
+
+For mer info om oss se <a href="/about">"Om oss"</a> -->
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}

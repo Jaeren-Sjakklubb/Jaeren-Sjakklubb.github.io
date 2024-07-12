@@ -6,21 +6,15 @@
 
       <div class="footer-col footer-col-1">
 
-        {%- if site.facebook_username -%}
-          <a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">
-            <svg class="svg-icon">
-              <use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}">
-              </use>
-            </svg>
-            <span class="username">
-            </span>
-          </a>
-        {%- endif -%}
-
-        {{ site.title | escape }} &copy; 2024
+        {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username"></span></a>{%- endif -%} {{ site.title | escape }} © 2024
 
       </div>
  
+     <div class="footer-col footer-col-8">
+
+        <script type="text/javascript" src = "https://www.chessvideos.tv/quote.php"></script>
+ 
+      </div>
     </div>
 
   </div>

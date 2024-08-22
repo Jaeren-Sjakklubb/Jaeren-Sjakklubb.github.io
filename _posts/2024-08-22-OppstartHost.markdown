@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Onsdag 28. august: Oppstart høstsemester - Lynsjakk"
+title:  "Oppstart høstsemester - Lynsjakk"
 date:   2024-08-22 20:18:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
-excerpt: Oppstart høstsemester
+excerpt: Onsdag 28. august er første klubbkveld i høst.
 ---
 Vi starter opp igjen onsdag 28. august kl 18:00 med lynsjakk (3m + 2s).
 

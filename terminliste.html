@@ -3,12 +3,12 @@ layout: page
 title: Terminliste
 permalink: /terminliste/
 ---
+<!--
 Første klubbkveld i høst blir nok i slutten av august.<br/>
 Tidspunkt for oppstart og terminliste for høsten blir lagt ut her når det er klart.
+-->
 
-
-<!--
-{% for month in site.data.terminliste_v24 %}
+{% for month in site.data.terminliste_h24 %}
 <h2>{{ month.month  }}</h2>
     {{ month.days | newline_to_br }}
 {% endfor %} 
@@ -38,5 +38,3 @@ Møt opp i god tid for registrering (registrering fra 18:00)
 </br>
 Pga smittevern, så skal du ikke komme på  våre klubbkvelder hvis du er syk eller føler deg syk. Spill da heller nettsjakk ;-)
 </div>
-
--->

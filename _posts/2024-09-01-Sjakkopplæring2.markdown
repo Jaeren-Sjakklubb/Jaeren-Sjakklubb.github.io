@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sjakkundervisning"
-date:   2024-03-03 11:50:00 +0200
+date:   2024-09-01 13:12:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
 excerpt: Sjakkundervisning på onsdager

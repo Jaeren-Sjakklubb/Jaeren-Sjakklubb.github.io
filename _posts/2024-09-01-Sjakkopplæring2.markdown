@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Sjakkundervisning"
+title:  "Sjakkundervisning på Bryne VGS"
 date:   2024-09-01 13:12:00 +0200
 author: Hans Vigleik Jakobsen
 categories: web
-excerpt: Sjakkundervisning på onsdager
+excerpt: Jæren Sjakklubb har to undervisningsøkter på onsdager - en for unge nybegynnere og en for de som er forbi det grunnleggende
 ---
 Jæren Sjakklubb har også undervisning på onsdager. En gruppe for unge nybegynnere, og en for
 de som er forbi det grunnleggende.

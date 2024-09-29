@@ -21,5 +21,6 @@ Partiene rates, så for å spille må man være medlem i en NSF-klubb. Er du ikk
 
 Gratis for klubbens medlemmer. Spillere fra andre klubber må være registrert som B-medlem i Jæren Sjakklubb for å kunne spille, kr 200,-
 
-Påmelding ved oppmøte (senest kl 18:00) eller på turneringsservice:
-https://tournamentservice.com/invitation.aspx?TID=KlubbturneringLangsjakk2024-Jarensjakklubb&lang=nb-no
+Påmelding ved oppmøte (senest kl 18:00) eller på [turneringsservice]. Velkommen ;-)
+
+[turneringsservice]: https://tournamentservice.com/invitation.aspx?TID=KlubbturneringLangsjakk2024-Jarensjakklubb&lang=nb-no

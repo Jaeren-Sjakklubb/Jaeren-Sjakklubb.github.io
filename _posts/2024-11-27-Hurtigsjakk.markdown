@@ -9,7 +9,7 @@ excerpt: Høstens ratede hurtigsjakkturnering starter onsdag 27. november. Turne
 Jæren Sjakklubb ønsker alle hjertelig velkommen til høstens ratede hurtigjakkturnering.
 
 Turneringen går over 10 runder, og spilles på Bryne VGS onsdag 27/11 og onsdag 11/12:
-Tidskontroll: 15 min + 10 sek pr trekk.
+Tidskontroll: 10 min + 5 sek pr trekk.
 
 Partiene rates, så for å spille må man være medlem i en NSF-klubb. Er du ikke det så ordner vi det på stedet 😉
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terminliste høst 2025"
-date:   2025-08-31 12:13:00 +0100
+date:   2025-08-31 10:13:00 +0100
 author: Hans Vigleik Jakobsen
 categories: web
 excerpt: Da er høstprogrammet på plass

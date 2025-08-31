@@ -10,4 +10,4 @@ Da er [programmet for høsten] på plass.
 
 Håper å se mange nye og kjente fjes ta turen innom Bryne VGS i løpet av høsten. Velkommen ;-)
 
-[programmet for våren]: https://jærensjakk.no/terminliste/
+[programmet for høsten]: https://jærensjakk.no/terminliste/

@@ -27,12 +27,10 @@ list_title: ""
 <div style="margin-top:15px;margin-bottom:30px;">
     <h1>Hva skjer denne måneden</h1>
 
-<h2>zz{now()}zz</h2>
-
     {% for month in site.data.terminliste_v26 %}
     <h2>{{ month.month  }}</h2>
         {{ month.days | newline_to_br }}
     {% endfor %} 
 
-    Se <a href="/terminliste">for hele terminlisten</a>.
+    Hele terminlisten finner du <a href="/terminliste">her</a>.
 </div>

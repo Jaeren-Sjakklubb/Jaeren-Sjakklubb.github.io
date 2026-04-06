@@ -1,0 +1,72 @@
+---
+layout: home
+list_title: "Siste Innlegg"
+---
+
+<img src="/assets/img/17103358_1674349796199016_7977887204615956536_n.png" />
+<div style="margin-top:15px;margin-bottom:30px;">
+
+<!-- generell info -->
+<div style="width:50%;">
+
+Jæren Sjakklubb (JSK) ble stiftet 15. februar 2017 på Bryne VGS.<br/>
+JSK skal være et møtested for alle sjakkintresserte bosatt i Jærkommunene Gjesdal, Hå, Klepp og Time.<br/>
+
+# Klubbkvelder
+Fast spilledag er {{ site.data.klubbkveld.day }}.<br/>
+Vi starter kl. {{ site.data.klubbkveld.start }} og holder på til +/-  {{ site.data.klubbkveld.end }}.<br/>
+
+I hovedsak spiller vi en eller annen form for turnering.<br/>
+Enkelte onsdager kan det hende vi har undervisning/foredrag, gjerne etterfulgt av turnering.<br/>
+
+For mer informasjon, se [terminlisten](/terminliste).<br/>
+
+# Spillested
+
+Vi er så heldige å få låne lokaler av Bryne VGS (se kart).
+
+Du finner oss i personalkantina i 1. etg. i A-bygget.
+
+Ta kontakt på tlf 976 88 571 om du ikke finner frem.
+
+
+# Styret i Jæren Sjakklubb
+
+{% include styret.markdown %}
+
+</div>  
+<!-- terminliste -->
+<div style="width:50%;">
+  
+  {% for month in site.data.terminliste_v26 %}
+  <h2>{{ month.month  }}</h2>
+      {{ month.days | newline_to_br }}
+  {% endfor %} 
+
+
+  </br>
+  {{ "---" | markdownify }}
+  </br>
+
+  <div>
+    <p>
+    Hvis du har lyst til å spille sjakk, men ikke turnering, eller du har lyst å komme igang og lære sjakk, så er det bare å møte opp.
+    </br>
+    Vi har kjekke folk som står klare til å ta i mot deg.
+    </br>
+    Du er hjertelig velkommen ;-)
+    </p>
+  </div>
+
+
+  <div>
+  Om ikke annet oppgitt, så er turneringene åpne for alle (må ikke være medlem i noen sjakklubb).
+
+  </br>
+  Møt opp i god tid for registrering (registrering fra 18:00)
+
+  </br>
+  Pga smittevern, så skal du ikke komme på  våre klubbkvelder hvis du er syk eller føler deg syk. Spill da heller nettsjakk ;-)
+  </div>
+
+</div>  

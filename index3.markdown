@@ -1,10 +1,9 @@
 ---
 layout: home
-list_title: "Jæren SjakklubbXX"
 ---
 
 <img src="/assets/img/17103358_1674349796199016_7977887204615956536_n.png" />
-<div style="margin-top:15px;margin-bottom:30px;">
+<div style="margin-top:15px;margin-bottom:15px;">
 
     <h1>Velkommen til Jæren Sjakklubb!</h1>
 
@@ -17,19 +16,15 @@ list_title: "Jæren SjakklubbXX"
     I hovedsak spiller vi en eller annen form for turnering.<br/>
     Enkelte onsdager kan det hende vi har undervisning/foredrag, gjerne etterfulgt av turnering.<br/>
 
-    For mer informasjon om klubbkveldene, se [terminlisten](/terminliste).<br/><br/>
-
+    For mer informasjon om klubbkveldene, se <a href="/terminliste">Terminliste</a>.<br/><br/>
     
     Vi er så heldige å få låne lokaler av Bryne VGS.<br/>
-    Du finner oss i personalkantina i 1. etg. i A-bygget.<br/>
+    Du finner oss i personalkantina i 1. etg. i A-bygget.<br/><br/>
 
-    Se  [Om oss](/about) for kart og mer informasjon<br/>
-
+    Se  <a href="/about">Om oss</a> for kart og mer informasjon
 </div>
+
 <div style="margin-top:15px;margin-bottom:30px;">
-{{CURRENT_MONTH}}<br/>
-{{month}}<br/>
-{{monthName}}<br/>
     <h1>Hva skjer denne måneden</h1>
 
     {% for month in site.data.terminliste_v26 %}
@@ -37,10 +32,5 @@ list_title: "Jæren SjakklubbXX"
         {{ month.days | newline_to_br }}
     {% endfor %} 
 
-
-    </br>
-    {{ "---" | markdownify }}
-    </br>    
-
-    For mer informasjon om klubbkveldene, se [terminlisten](/terminliste).<br/><br/>
+    Se <a href="/terminliste">for hele terminlisten</a>.
 </div>

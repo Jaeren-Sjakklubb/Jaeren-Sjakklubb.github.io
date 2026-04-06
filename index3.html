@@ -9,23 +9,35 @@ list_title: "Jæren Sjakklubb"
     <h1>Velkommen til Jæren Sjakklubb!</h1>
 
     Jæren Sjakklubb (JSK) ble stiftet 15. februar 2017 på Bryne VGS.<br/>
-    JSK skal være et møtested for alle sjakkintresserte bosatt i Jærkommunene Gjesdal, Hå, Klepp og Time.<br/>
+    JSK skal være et møtested for alle sjakkintresserte bosatt i Jærkommunene Gjesdal, Hå, Klepp og Time.<br/><br/>
 
-    <h2>Klubbkvelder</h2>
-    Fast spilledag er {{ site.data.klubbkveld.day }}.<br/>
+    Vi har klubbkvelder på {{ site.data.klubbkveld.day }}er.<br/>
     Vi starter kl. {{ site.data.klubbkveld.start }} og holder på til +/-  {{ site.data.klubbkveld.end }}.<br/>
 
     I hovedsak spiller vi en eller annen form for turnering.<br/>
     Enkelte onsdager kan det hende vi har undervisning/foredrag, gjerne etterfulgt av turnering.<br/>
 
-    For mer informasjon, se [terminlisten](/terminliste).<br/>
+    For mer informasjon om klubbkveldene, se [terminlisten](/terminliste).<br/><br/>
 
-    <h2>Spillested</h2>
-
-    Vi er så heldige å få låne lokaler av Bryne VGS (se kart).<br/>
-
+    
+    Vi er så heldige å få låne lokaler av Bryne VGS.<br/>
     Du finner oss i personalkantina i 1. etg. i A-bygget.<br/>
 
-    Ta kontakt på tlf 976 88 571 om du ikke finner frem.<br/>
+    Se  [Om oss](/about) for kart og mer informasjon<br/>
 
-  </div>
+</div>
+<div style="margin-top:15px;margin-bottom:30px;">
+    <h1>Hva skjer denne måneden</h1>
+
+    {% for month in site.data.terminliste_v26 %}
+    <h2>{{ month.month  }}</h2>
+        {{ month.days | newline_to_br }}
+    {% endfor %} 
+
+
+    </br>
+    {{ "---" | markdownify }}
+    </br>    
+
+    For mer informasjon om klubbkveldene, se [terminlisten](/terminliste).<br/><br/>
+</div>

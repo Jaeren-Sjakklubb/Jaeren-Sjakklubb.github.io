@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "Jæren Sjakklubb"
+list_title: "Jæren SjakklubbXX"
 ---
 
 <img src="/assets/img/17103358_1674349796199016_7977887204615956536_n.png" />
@@ -27,6 +27,9 @@ list_title: "Jæren Sjakklubb"
 
 </div>
 <div style="margin-top:15px;margin-bottom:30px;">
+{{CURRENT_MONTH}}<br/>
+{{month}}<br/>
+{{monthName}}<br/>
     <h1>Hva skjer denne måneden</h1>
 
     {% for month in site.data.terminliste_v26 %}
